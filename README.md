@@ -16,17 +16,22 @@
 
 ## 📊 GitHub Stats  
 
-🛠️ Tech Stack
+
+
 🎨 Design
 
-
-
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
 💻 Development
 
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -34,17 +39,19 @@
 
 ⚙️ Tools
 
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 
 
 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight)
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=donut&theme=tokyonight)
 
 
 🚀 Projects:
