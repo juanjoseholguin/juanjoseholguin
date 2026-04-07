@@ -1,5 +1,7 @@
 👋 Hi, I'm Juan José
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20José%20Holguín%20Amaya%20🧑🏽‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 🎨 Interactive Media Designer & Frontend Developer
 💡 I create digital experiences that combine design, creativity, and code
 🚀 Focused on building interfaces that feel as good as they look
