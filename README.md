@@ -51,7 +51,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=compact&theme=tokyonight&langs_count=6)
 
 
 🚀 Projects:
