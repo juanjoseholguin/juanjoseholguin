@@ -1,7 +1,9 @@
 👋 Hi, I'm Juan José
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20José%20Holguín%20Amaya%20🧑🏽‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Interactive+Media+Designer;Frontend+Developer;Creative+Coder;Building+Digital+Experiences" />
+</p>
 🎨 Interactive Media Designer & Frontend Developer
 💡 I create digital experiences that combine design, creativity, and code
 🚀 Focused on building interfaces that feel as good as they look
@@ -13,6 +15,10 @@
 🧠 Interested in interactive experiences and digital products
 🛠️ Tech Stack
 🎨 Design
+
+## 🐍 Contribution Snake  
+
+![snake](https://github.com/juanjoseholguin/juanjoseholguin/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats  
 
@@ -49,9 +55,8 @@
 
 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=juanjoseholguin&theme=tokyonight)
 
 
 🚀 Projects:
@@ -85,7 +90,7 @@ A foundational project applying programming logic, structure, and collaborative 
 * 📧 juanjoseholguin128@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-holgu%C3%ADn-b67062292/
 * 💼 Behance: https://www.behance.net/juanjoholgun1
-*  [![Instagram](https://img.shields.io/badge/@juanjoseholguin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanjoseholguin) 
+*  [![Instagram](https://img.shields.io/badge/@juanjoseholguin_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanjoseholguin) 
 
 ---
 
