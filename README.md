@@ -16,9 +16,35 @@
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight&hide_border=true)
+🛠️ Tech Stack
+🎨 Design
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+
+
+
+
+💻 Development
+
+
+
+
+
+
+
+⚙️ Tools
+
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
 
 
 🚀 Projects:
