@@ -49,9 +49,9 @@
 
 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=juanjoseholguin&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=compact&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseholguin&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 🚀 Projects:
@@ -84,11 +84,10 @@ A foundational project applying programming logic, structure, and collaborative 
 
 * 📧 juanjoseholguin128@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-holgu%C3%ADn-b67062292/
-* * 💼 Behance: https://www.behance.net/juanjoholgun1
+* 💼 Behance: https://www.behance.net/juanjoholgun1
+*  [![Instagram](https://img.shields.io/badge/@juanjoseholguin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanjoseholguin) 
 
 ---
-
-## ⚡ Instagram: @juanjoseholguin_
 
 I’m a designer who codes — focused on building experiences that are not only functional, but visually engaging and meaningful.
 I believe great products come from the balance between **aesthetic, usability, and interaction**.
