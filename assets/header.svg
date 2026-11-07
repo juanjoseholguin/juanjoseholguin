@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Juan José Holguín. Interactive Media Designer, UI/UX Designer, Frontend Developer">
+  <defs>
+    <radialGradient id="planet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#3a10d8"/>
+      <stop offset="0.8" stop-color="#4a18e0"/>
+      <stop offset="0.96" stop-color="#b14dff"/>
+      <stop offset="1" stop-color="#f08bff"/>
+    </radialGradient>
+    <linearGradient id="track" x1="0" x2="1">
+      <stop offset="0" stop-color="#7a2bff"/>
+      <stop offset="0.35" stop-color="#ff2bd6"/>
+      <stop offset="0.7" stop-color="#27e6ff"/>
+      <stop offset="1" stop-color="#c6ff3d"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="frame"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .title { font: 800 68px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: -2px; }
+    .role { font: 600 27px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c6ff3d; opacity: 0; animation: role 9s infinite; }
+    .r2 { animation-delay: 3s; } .r3 { animation-delay: 6s; }
+    @keyframes role { 0%, 30% { opacity: 1; transform: translateY(0); } 34%, 96% { opacity: 0; transform: translateY(-8px); } 100% { opacity: 0; transform: translateY(8px); } }
+    .float { animation: float 5s ease-in-out infinite; }
+    .f2 { animation-delay: -1.6s; } .f3 { animation-delay: -3.1s; } .f4 { animation-delay: -4s; }
+    @keyframes float { 50% { transform: translateY(-12px); } }
+    .spin { transform-origin: 170px 150px; animation: spin 6s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: 600px 340px; }
+    @keyframes pulse { 50% { opacity: 0.75; transform: scale(1.03); } }
+    .tile { animation: tile 1.8s steps(2) infinite; }
+    @keyframes tile { 50% { opacity: 0.35; } }
+    .star { animation: tw 2.6s ease-in-out infinite; }
+    @keyframes tw { 50% { opacity: 0.15; } }
+    .walk { animation: walk 0.5s ease-in-out infinite; }
+    @keyframes walk { 50% { transform: translateY(-5px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .role.r1 { opacity: 1; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#08060f"/>
+    <g fill="#fff">
+      <circle class="star" cx="80" cy="50" r="2"/><circle class="star" cx="330" cy="30" r="1.6" style="animation-delay:-1s"/>
+      <circle class="star" cx="980" cy="42" r="2" style="animation-delay:-.6s"/><circle class="star" cx="1130" cy="110" r="1.6" style="animation-delay:-1.8s"/>
+      <circle class="star" cx="250" cy="110" r="1.4" style="animation-delay:-2.2s"/><circle class="star" cx="880" cy="90" r="1.4" style="animation-delay:-1.3s"/>
+    </g>
+    <ellipse class="pulse" cx="600" cy="420" rx="430" ry="360" fill="#b14dff" opacity="0.45" filter="url(#glow)"/>
+    <ellipse cx="600" cy="420" rx="420" ry="350" fill="url(#planet)"/>
+    <g class="float">
+      <circle cx="170" cy="150" r="72" fill="#0c0a18" stroke="#3a3556" stroke-width="2"/>
+      <circle cx="170" cy="150" r="52" fill="none" stroke="#2a2640"/><circle cx="170" cy="150" r="38" fill="none" stroke="#2a2640"/>
+      <g class="spin"><circle cx="170" cy="150" r="24" fill="#ff2bd6"/><rect x="167" y="128" width="6" height="12" fill="#fff"/><circle cx="170" cy="150" r="4" fill="#fff"/></g>
+    </g>
+    <g class="float f2">
+      <circle cx="1030" cy="150" r="58" fill="#ff6a1f"/>
+      <path d="M972 150h116M1030 92v116M990 108c24 26 24 58 0 84M1070 108c-24 26-24 58 0 84" stroke="#120a0a" stroke-width="3.5" fill="none"/>
+    </g>
+    <g class="float f3">
+      <rect x="302" y="192" width="46" height="46" rx="11" fill="#fff" transform="rotate(-12 325 215)"/>
+      <circle cx="315" cy="207" r="4.5" fill="#7a2bff"/><circle cx="325" cy="215" r="4.5" fill="#7a2bff"/><circle cx="335" cy="223" r="4.5" fill="#7a2bff"/>
+    </g>
+    <g class="float f4">
+      <path d="M865 182v62l15-14 13 28 13-6-13-27h20z" fill="#c6ff3d" transform="rotate(-8 880 210)"/>
+    </g>
+    <text class="title" x="600" y="168" text-anchor="middle">Juan José Holguín</text>
+    <text class="role r1" x="600" y="216" text-anchor="middle">Interactive Media Designer</text>
+    <text class="role r2" x="600" y="216" text-anchor="middle">UI/UX Designer</text>
+    <text class="role r3" x="600" y="216" text-anchor="middle">Frontend Developer</text>
+    <g fill="url(#track)">
+      <rect x="0" y="312" width="1200" height="28"/>
+    </g>
+    <g fill="#08060f" opacity="0.72">
+      <rect class="tile" x="60" y="312" width="60" height="28"/><rect class="tile" x="240" y="312" width="60" height="28" style="animation-delay:-.6s"/>
+      <rect class="tile" x="420" y="312" width="60" height="28" style="animation-delay:-1.2s"/><rect class="tile" x="600" y="312" width="60" height="28"/>
+      <rect class="tile" x="780" y="312" width="60" height="28" style="animation-delay:-.6s"/><rect class="tile" x="960" y="312" width="60" height="28" style="animation-delay:-1.2s"/>
+      <rect class="tile" x="1140" y="312" width="60" height="28"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-80 0" to="1260 0" dur="14s" repeatCount="indefinite"/>
+      <g class="walk">
+        <circle cx="0" cy="272" r="17" fill="#d9a47a"/><path d="M-17 270a17 17 0 0 1 34 0z" fill="#1c1420"/>
+        <circle cx="-5" cy="274" r="2.4" fill="#120a2c"/><circle cx="7" cy="274" r="2.4" fill="#120a2c"/>
+        <rect x="-15" y="288" width="30" height="18" rx="7" fill="#7a2bff"/>
+        <rect x="-11" y="304" width="8" height="9" fill="#120a2c"/><rect x="3" y="304" width="8" height="9" fill="#120a2c"/>
+      </g>
+    </g>
+  </g>
+</svg>
