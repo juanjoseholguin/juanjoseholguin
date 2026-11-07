@@ -30,7 +30,7 @@ I'm a designer who codes. I study Interactive Media Design at Universidad Icesi 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://juan-jose-holguin.vercel.app"><img src="https://raw.githubusercontent.com/juanjoseholguin/Portfolio-Juan-Jos-Holgu-n/main/brand/behance-banner.png" alt="3D portfolio banner"/></a>
+      <a href="https://juan-jose-holguin.vercel.app"><img src="./assets/portfolio.webp" alt="3D portfolio home screen"/></a>
       <br/><strong>3D Portfolio</strong>
       <br/>Scroll-driven site with a playable avatar, style switching, and live Behance projects.
       <br/><a href="https://juan-jose-holguin.vercel.app">Live</a> · <a href="https://github.com/juanjoseholguin/Portfolio-Juan-Jos-Holgu-n">Code</a>
@@ -99,10 +99,6 @@ Also: [DCA Project I](https://github.com/Migueg04/DCA-Proyect-I), a foundational
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
 
 ## GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=juanjoseholguin&theme=tokyonight&hide_border=true&background=08060F&ring=B14DFF&fire=FF2BD6&currStreakLabel=C6FF3D" alt="GitHub streak"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/juanjoseholguin/juanjoseholguin/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
