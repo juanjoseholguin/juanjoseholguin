@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://juan-jose-holguin.vercel.app"><img src="./assets/header.svg" alt="Juan José Holguín. Interactive Media Designer, UI/UX Designer, Frontend Developer" width="100%"/></a>
+  <a href="https://portfoliojuanjoseholguin.vercel.app"><img src="./assets/header.svg" alt="Juan José Holguín. Interactive Media Designer, UI/UX Designer, Frontend Developer" width="100%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://juan-jose-holguin.vercel.app"><img src="https://img.shields.io/badge/Play_my_portfolio-7A2BFF?style=for-the-badge&logoColor=white" alt="Play my portfolio"/></a>
+  <a href="https://portfoliojuanjoseholguin.vercel.app"><img src="https://img.shields.io/badge/Play_my_portfolio-7A2BFF?style=for-the-badge&logoColor=white" alt="Play my portfolio"/></a>
   <a href="https://www.behance.net/juanjoholgun1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-holgu%C3%ADn-b67062292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:juanjoseholguin128@gmail.com"><img src="https://img.shields.io/badge/Email-FF2BD6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -30,10 +30,10 @@ I'm a designer who codes. I study Interactive Media Design at Universidad Icesi 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://juan-jose-holguin.vercel.app"><img src="./assets/portfolio.webp" alt="3D portfolio home screen"/></a>
+      <a href="https://portfoliojuanjoseholguin.vercel.app"><img src="./assets/portfolio.webp" alt="3D portfolio home screen"/></a>
       <br/><strong>3D Portfolio</strong>
       <br/>Scroll-driven site with a playable avatar, style switching, and live Behance projects.
-      <br/><a href="https://juan-jose-holguin.vercel.app">Live</a> · <a href="https://github.com/juanjoseholguin/Portfolio-Juan-Jos-Holgu-n">Code</a>
+      <br/><a href="https://portfoliojuanjoseholguin.vercel.app">Live</a> · <a href="https://github.com/juanjoseholguin/Portfolio-Juan-Jos-Holgu-n">Code</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.behance.net/gallery/252246803/CollegePrep-Smart-Budget-Meal-Planner"><img src="https://raw.githubusercontent.com/juanjoseholguin/Portfolio-Juan-Jos-Holgu-n/main/public/covers/252246803.webp" alt="CollegePrep cover"/></a>
